@@ -84,8 +84,14 @@ nav, ul, li {
     font-weight: 400; 
  	color: #3F4145;
  	padding-top: 21px; 
- 	padding-left: 23px
+ 	padding-left: 23px;
+font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
  }
+
 
  #blue {
  	width:77px;
@@ -106,6 +112,11 @@ nav, ul, li {
  	margin-top: 20px; 
  	paddint-right: 15px; 
  	display: inline-block;
+ 	font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
  }
 
  #grayblock1 {
@@ -136,6 +147,11 @@ nav, ul, li {
  	margin-top: 20px;
  	paddint-right: 15px; 
  	display: inline-block;
+ 	font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
  }
 
  #facebook {

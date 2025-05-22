@@ -76,6 +76,7 @@ nav, ul, li {
  	color: #4E6FAE;
  	margin-left: 52px;
  	margin-top: 8px;
+ 	font-family: "BPG Square", sans-serif;
  }
 
  #photo {
@@ -99,7 +100,21 @@ nav, ul, li {
  .info {
  	display: inline-block;
     margin-bottom: 10px;
+    font-family: "BPG Square", sans-serif;
  }
+
+.list {
+	lay: inline-block;
+   margin-bottom: 10px;
+   font-family: "BPG Square", sans-serif;
+   font-size: 16px;
+	color: #4E6FAE;
+	display: inline-block;
+	width: 778px;
+	margin-left: 567px;
+	vertical-align: top;
+	margin-top: 8px;
+}
 
 #info2 {
 	font-size: 16px;
@@ -109,6 +124,7 @@ nav, ul, li {
 	margin-left: 66px;
 	vertical-align: top;
 	margin-top: 8px;
+	font-family: "BPG Square", sans-serif;
 }
 
 #info3 {
@@ -118,6 +134,8 @@ nav, ul, li {
  	width: 778px;
  	height: 281px;
  	display: block;
+ 	font-family: "BPG Nostalgia", sans-serif;
+
  }
 
 #facebook {
